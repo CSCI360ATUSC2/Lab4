@@ -1,5 +1,5 @@
 
-# CSCI360 (2024 Spring) Lab4
+# CSCI360 (2024 Fall) Lab4
 
 
 ## Installation
